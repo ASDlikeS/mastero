@@ -1,0 +1,70 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+Mastero version 1.0
+Copyright © 2026 Mastero prod.
+
+1. Definitions
+
+1.1. "Software" means the source code, executable files, libraries, documentation, and any other components distributed together with Mastero.
+
+1.2. "Commercial Use" means any use of the Software in the course of entrepreneurial activity aimed at generating revenue, including but not limited to:
+     — selling, renting, or leasing the Software or services based on it;
+     — using the Software internally within a company to create a commercial product or service;
+     — providing access to the Software's functionality as a service (SaaS, PaaS, IaaS) for a fee.
+
+1.3. "Competing Platform" means a software product or online service whose core functionality is based on the same essential business idea as Mastero and which could replace or directly compete with it in the market. The specific list of competing functions is determined by the Licensor.
+
+1.4. "Component" means an individual file, class, function, module, or library that can be used independently of the rest of the Software.
+
+2. Granted Rights
+
+2.1. Right to study and modify for non-commercial purposes
+You may freely download, view the source code, analyse its operation, and modify the Software for personal non-commercial use, provided that you retain all copyright notices.
+
+2.2. Right to use individual components
+You may use individual small modules or code snippets (not exceeding 1000 lines or not exceeding 75% of the total code of a component) in your non-commercial or open source projects, provided you give attribution: "This source code is based on Mastero (c) ASD".
+
+3. Prohibitions
+
+3.1. Prohibition on Commercial Use
+Any Commercial Use of the Software in whole or in substantial part is prohibited without a separate written permission from the Licensor.
+
+3.2. Prohibition on creating Competing Platforms
+You are prohibited from using the source code of the Software, its architecture, algorithms, or business logic to develop, maintain, or distribute any Competing Platform, even if you rewrite the code independently.
+
+3.3. Prohibition on removing notices
+You may not remove, alter, or obscure any copyright notices, license terms, or references to the Licensor present in the Software.
+
+4. Exceptions for Open Source Components
+
+If any part of the Software is distributed under a third‑party open source license (MIT, GPL, Apache, etc.), then that part is governed by the terms of the applicable license. A list of such components is provided in a separate file named "THIRD_PARTY_LICENSES".
+
+5. Commercial License
+
+If you wish to use the Software or its parts for Commercial Use, or to develop your own platform based on it, you must enter into a separate written license agreement with the Licensor on commercial terms. To obtain a commercial license, contact: penetresing_test@tutamail.com.
+
+6. No Warranty
+
+The Software is provided "AS IS", without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non‑infringement. The entire risk of using the Software rests with you.
+
+7. Limitation of Liability
+
+In no event shall the Licensor be liable for any damages (including but not limited to loss of data, profits, or business interruption) arising out of the use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
+
+8. Termination
+
+This license is effective until terminated. If you violate any of its terms, your rights under this license terminate automatically. Upon termination, you must delete all copies of the Software in your possession.
+
+9. Governing Law
+
+This agreement shall be governed by the laws of Russia. Any disputes shall be resolved by the courts located in the Licensor’s place of residence/business.
+
+10. Contact Information
+
+For inquiries regarding a commercial license or clarification of these terms, please contact:
+ASD / Mastero prod.
+penetresing_test@tutamail.com
+mastero.com
+
+---
+
+This agreement is executed in two counterparts, each having the same legal effect.
